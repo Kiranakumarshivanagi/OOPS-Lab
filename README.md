@@ -138,13 +138,13 @@ The main objective of this repository is to understand and implement Object Orie
 
 ## Author
 
-**YOUR NAME**
+Kiranakumar Basavaraj Shivanagi
 
 OOPS Laboratory
 
-**Department:** YOUR BRANCH
+**Department:** Electronics And Communication
 
-**College:** YOUR COLLEGE NAME
+**College:** KLE Technological University 
 
 ---
 
