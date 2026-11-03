@@ -9,6 +9,8 @@ This repository contains the laboratory programs implemented as part of the Obje
 |---|---|
 | Name | Kiranakumar Basavaraj Shivanagi |
 | USN | 01FE23BEC359 |
+| Roll No | 658 |
+| Division | F |
 | Branch | Electronics And Communication|
 | Semester | 7th Semister |
 | College | KLE Technological University |
@@ -139,13 +141,8 @@ The main objective of this repository is to understand and implement Object Orie
 ## Author
 
 Kiranakumar Basavaraj Shivanagi
-
-OOPS Laboratory
-
-**Department:** Electronics And Communication
-
-**College:** KLE Technological University 
-
+ Electronics And Communication
+ 
 ---
 
 *This repository is created for academic and learning purposes.*
