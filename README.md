@@ -142,9 +142,6 @@ The main objective of this repository is to understand and implement Object Orie
 
 Kiranakumar Basavaraj Shivanagi
 
- Electronics And Communication
+ Electronics And Communication Engineering
  
 ---
-
-*This repository is created for academic and learning purposes.*
-
